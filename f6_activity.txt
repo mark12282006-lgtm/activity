@@ -1,2 +1,4 @@
 version control plays an important roll in collaborative project because it allows every single person access, experiment and search the history
 It is also more simple to edit and to check the process
+
+The advantage of git compare to the manual file management is that git is more simpler to use unlike a manual file management which the git can update faster
