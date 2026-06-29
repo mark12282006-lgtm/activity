@@ -1,0 +1,2 @@
+version control plays an important roll in collaborative project because it allows every single person access, experiment and search the history
+It is also more simple to edit and to check the process
